@@ -4,8 +4,9 @@
 **Client:** SPhotonix Inc.  
 **Designer/Developer:** Andrii Pavlov  
 **Project Manager:** Denys Chumak  
-**Stakeholder:** Caroline (CMO) - Final Approver  
+**Approvers:** Caroline (CMO), Ilya, Igor  
 **Created:** January 16, 2026  
+**Last Updated:** January 16, 2026 (with Caroline's feedback)  
 **Status:** Phase 1 In Progress  
 
 ---
@@ -25,8 +26,7 @@
 11. [SEO & GEO Strategy](#11-seo--geo-strategy)
 12. [Timeline & Phases](#12-timeline--phases)
 13. [Budget & Scope](#13-budget--scope)
-14. [Open Questions for Caroline](#14-open-questions-for-caroline)
-15. [Appendix](#15-appendix)
+14. [Appendix](#14-appendix)
 
 ---
 
@@ -35,11 +35,11 @@
 ### Project Overview
 
 Refresh and update [5dmemorycrystal.com](https://www.5dmemorycrystal.com) to:
-- Position 5D Memory Crystal as a **high-end luxury product**
-- Appeal to both **B2C** (individuals who can spend $3K-$25K+) and **B2B** (luxury brands, watchmakers, archives)
+- Position 5D Memory Crystal as a **high-end luxury product** — lux, high-end tech, cutting edge but not a fad
+- Appeal to both **B2C** (individuals who can spend $3K-$25K+) and **B2B** (luxury brands — cars, watches, fashion, jewellery, yachts)
 - Maintain existing SEO traction while dramatically elevating visual execution
 - Drive B2C traffic to the quiz funnel at `memory-quiz.5dmemorycrystal.com`
-- Create dedicated B2B content for luxury partnerships
+- Create dedicated B2B content for luxury partnerships with strong **B2B2C opportunity**
 
 ### Key Principle
 
@@ -52,6 +52,13 @@ Refresh and update [5dmemorycrystal.com](https://www.5dmemorycrystal.com) to:
 | 5dmemorycrystal.com | Consumer/B2B brand site | TBD (this project) |
 | memory-quiz.5dmemorycrystal.com | B2C conversion funnel | Next.js / Cloud Run |
 | sphotonix.com | Corporate/investor site | Separate |
+
+### Site Relationship
+
+- **5dmemorycrystal.com** = Consumer brand (must appeal for leads and conversions)
+- **sphotonix.com** = Corporate/investor site (business, corporate, Advanced Optics, licensing, B2B data storage, space, digital preservation, R&D, government, DNA)
+- Show relationship to SPhotonix but 100% focused on getting leads and conversions
+- Footer: "A SPhotonix company"
 
 ---
 
@@ -107,21 +114,41 @@ Deposit → Full Payment ($3K): 75%+
 |-----------|--------|
 | Age | 45-65 |
 | Household Income | $500K+ |
-| Owns | Luxury watches, art, collectibles |
+| Owns | Luxury watches, art, collectibles, cars, yachts |
 | Triggers | Milestone birthday, parent's passing, family archive project, estate planning |
-| Values | Permanence, craftsmanship, exclusivity, legacy |
+| Values | Permanence, craftsmanship, exclusivity, legacy, "swagger" |
 | Emotional Drivers | Fear of being forgotten, desire to leave something behind, family connection |
 
-### B2B Persona: Brand Heritage Director
+### B2B Persona: Luxury Brand Decision-Makers
 
 | Attribute | Detail |
 |-----------|--------|
-| Role | Head of Innovation / Brand Heritage Director |
-| Company Type | Luxury maisons, watchmakers, fashion houses, family offices |
-| Interests | Archiving brand history, VIP customer gifts, product authentication, sustainability |
-| Rational Drivers | 1000+ year durability, no migration costs, no format obsolescence, differentiation |
+| **Industries** | Cars, watches, fashion, jewellery, houses, yachts |
+| **Roles** | R&D Directors, Creative Directors, Head of Innovation, Brand Heritage Director |
+| **Product Focus** | Bespoke crystals (like Boucheron) — not just discs |
+| **Opportunity** | Strong B2B2C potential |
+| **Interests** | Archiving brand history, VIP customer gifts, product authentication, sustainability |
+| **Rational Drivers** | 1000+ year durability, no migration costs, no format obsolescence, differentiation |
 
-> ⚠️ **NEEDS CAROLINE INPUT:** Specific B2B decision-maker details and use cases
+### B2B Use Cases (Caroline Approved)
+
+**Archives & Collections:**
+- Art collections
+- Music collections / back catalogues
+- Car collections
+- NFTs and blockchain records
+- Own DNA storage
+
+**Luxury Integration:**
+- Jewellery (e.g., crystal in wedding ring)
+- Cars, yachts, private jets
+- Bespoke items for luxury brands
+
+**Personal Memories:**
+- Photos and videos
+- Songs that mean something
+- Capturing special moments
+- "Swagger" / status symbol
 
 ### Geographic Focus
 
@@ -148,6 +175,7 @@ Deposit → Full Payment ($3K): 75%+
 - "Contact for enterprise pricing"
 - Minimum deal value: $4,000+ per crystal
 - Custom quotes based on volume and requirements
+- Bespoke crystal formats available (not just discs)
 
 ### Payment Flow
 
@@ -164,7 +192,7 @@ Deposit → Full Payment ($3K): 75%+
 
 ### Brand Personality
 
-> **"Quiet luxury meets deep tech."**
+> **"Lux, high-end tech, cutting edge but not a fad."**
 
 Think Leica meets Apple. Confident, understated, substantive. Craftsmanship you can feel.
 
@@ -174,6 +202,16 @@ Think Leica meets Apple. Confident, understated, substantive. Craftsmanship you 
 - Technological sophistication with emotional warmth
 - Heritage and innovation combined
 - Exclusivity without elitism
+- **Legacy** and **exclusive** are key themes
+
+### Brand Guidelines
+
+**Reference:** [SPhotonix Figma Brand Assets](https://www.figma.com/design/Te4ed6eIvhPBYUqHDNHJi7/SPhotonix_Denys?node-id=89-94&t=835H5hUTsaNXOBWo-1)
+
+**Important Notes from Caroline:**
+- Current SPhotonix brand is more business/corporate (useful for Advanced Optics, licensing, B2B data storage, space, digital preservation, R&D, government, DNA)
+- 5D Memory Crystal must show relationship to SPhotonix BUT must 100% appeal to get leads and conversions
+- Andrii has freedom to evolve within premium direction while maintaining brand connection
 
 ### Visual References (Admired)
 
@@ -193,17 +231,14 @@ Think Leica meets Apple. Confident, understated, substantive. Craftsmanship you 
 - ❌ "Web3/crypto" visual language
 - ❌ Excessive animations
 - ❌ Busy e-commerce layouts
-
-### Existing Brand Guidelines
-
-> ⚠️ **NEEDS CAROLINE INPUT:** Confirm brand guidelines status. Logo exists, but no formal brand book. Andrii has freedom to evolve within "premium tech" direction.
+- ❌ Anything that feels like a fad
 
 ### Photography Requirements
 
 | Type | Status | Notes |
 |------|--------|-------|
 | Product shots | Exists | Some crystal photography available |
-| Lifestyle | Needed | Crystal in home setting, hands holding crystal |
+| Lifestyle | Needed | Crystal in luxury settings (cars, yachts, jewellery) |
 | Detail/Macro | Needed | Close-up of crystal structure, colors under light |
 | Packaging | Needed | Unboxing experience, premium cases |
 
@@ -214,12 +249,12 @@ Think Leica meets Apple. Confident, understated, substantive. Craftsmanship you 
 | Product videos | Exists | Some available |
 | Hero brand video | Needed | 60s emotional brand story |
 | How it works | Needed | Explainer video |
-| Testimonials | Needed | Customer stories (when available) |
+| Testimonials | Needed | Customer stories + Boucheron B2B |
 
 ### Visual Hero Strategy
 
 **Both product AND emotional outcome, sequenced:**
-1. Lead with emotional outcome (memories, legacy, family)
+1. Lead with emotional outcome (legacy, exclusivity, memories)
 2. Reveal product as the solution
 3. Product is beautiful but it's about what's inside
 
@@ -229,27 +264,28 @@ Think Leica meets Apple. Confident, understated, substantive. Craftsmanship you 
 
 ### Core Message
 
-> ⚠️ **NEEDS CAROLINE INPUT:** Confirm single most important message.
-> 
-> Draft: **"Your most precious memories, preserved for 1,000+ years."**
+> **Focus on LEGACY and EXCLUSIVITY**
 
-### Tagline Evolution
+Caroline's feedback: "Legacy is big, as well as exclusive"
 
-Current: "Preserve your data for Eternity" (functional but cold)
+**Primary messaging themes:**
+- Legacy — your memories preserved for generations
+- Exclusivity — cutting edge technology, limited, premium
+- Permanence — 1,000+ years
 
-**Proposed options:**
-- "Memories that outlast time"
-- "A thousand years of you"
+**Tagline options to explore:**
 - "Legacy, crystallized"
+- "A thousand years of you"
+- "Memories that outlast time"
 
 ### Content Depth Strategy
 
 | Page | Technical Depth | Tone |
 |------|-----------------|------|
-| Homepage | Light | Emotional + benefit-focused |
+| Homepage | Light | Emotional + benefit-focused (legacy, exclusive) |
 | Technology | Deep | Scientific credibility |
 | B2C Product | Medium | Features + emotional outcomes |
-| B2B | Medium-Deep | ROI, durability, specifications |
+| B2B | Medium-Deep | ROI, durability, specifications, B2B2C opportunity |
 
 ### Common Objections to Address
 
@@ -275,9 +311,10 @@ Current: "Preserve your data for Eternity" (functional but cold)
 - Patents and peer-reviewed publications
 
 **Tier 3 - Social Proof:**
+- **Boucheron** (confirmed B2B testimonial available)
 - Customer testimonials (plan for section, populate post-launch)
 - B2B case studies (each as separate page for SEO)
-- Example crystals gallery (MoonMars Museum, ADNOC, etc.)
+- Example crystals gallery (MoonMars Museum, ADNOC, Boucheron)
 
 ### Blog Strategy
 
@@ -302,6 +339,7 @@ Current: "Preserve your data for Eternity" (functional but cold)
 │   └── Business (B2B overview)
 ├── Gallery / Our Crystals
 ├── Case Studies (B2B - individual pages for SEO)
+│   ├── /case-study/boucheron
 │   ├── /case-study/moonmars-museum
 │   ├── /case-study/adnoc
 │   └── /case-study/[future-clients]
@@ -329,7 +367,7 @@ Homepage
 Homepage
   → "For Business" CTA
   → B2B landing section
-  → Use cases by industry
+  → Use cases by industry (cars, watches, fashion, jewellery, yachts)
   → Case studies (individual pages)
   → "Partner With Us" form / Book a call
   → HubSpot + Slack notification
@@ -373,7 +411,7 @@ Homepage
 | Feature | Details |
 |---------|---------|
 | B2B section | Dedicated landing page |
-| Case studies | Individual pages per B2B client (SEO) |
+| Case studies | Individual pages per B2B client (SEO) — starting with Boucheron |
 | "Book a Call" | Calendly or similar integration |
 | Press/News section | Media mentions aggregation |
 | Enhanced gallery | Filter by crystal type/size |
@@ -453,6 +491,7 @@ Homepage
 | Round | 2.5 cm, 5 cm |
 | Square | 2.5 cm, 5 cm, 7.5 cm |
 | Rectangular | Custom dimensions |
+| **Bespoke** | Custom shapes for B2B (jewellery integration, etc.) |
 
 ### Artwork Guidelines
 
@@ -506,11 +545,20 @@ Examples:
 
 ### Target Keywords
 
+**Core Keywords:**
 - "luxury data storage"
 - "permanent memory storage"
 - "legacy preservation"
 - "generational data storage"
 - "archival storage technology"
+
+**Additional Keywords (Caroline's Input):**
+- "tech in a crystal"
+- "saving memories in a crystal"
+- "new age crystals"
+- Keywords linking: crystal + value + tech + unique
+
+> **Note:** Refer to Caroline's full keyword list for comprehensive targeting.
 
 ### B2B Case Study SEO Strategy
 
@@ -518,6 +566,7 @@ Examples:
 
 **URL Structure:**
 ```
+/case-study/boucheron
 /case-study/moonmars-museum
 /case-study/adnoc-heritage
 /case-study/[client-name]
@@ -540,8 +589,6 @@ Examples:
 - FAQ schema
 - Article schema (blog/case studies)
 - Review schema (when testimonials available)
-
-> ⚠️ **NEEDS CAROLINE INPUT:** Additional SEO keyword targets
 
 ---
 
@@ -578,7 +625,8 @@ Examples:
 
 - [ ] B2B dedicated section
 - [ ] Case study template
-- [ ] 2-3 case study pages (SEO optimized)
+- [ ] Boucheron case study page (SEO optimized)
+- [ ] 1-2 additional case study pages
 - [ ] "Book a Call" integration
 - [ ] Press/News section
 - [ ] Enhanced gallery with filters
@@ -595,13 +643,20 @@ Examples:
 - [ ] Performance optimization
 - [ ] Documentation & handoff
 
-### Review Process
+### Approval Process (Confirmed by Caroline)
 
-> ⚠️ **NEEDS CAROLINE INPUT:** Confirm approval workflow
+**Approvers:**
+- Caroline (CMO) — reviews first
+- Ilya — final approval
+- Igor — may also approve
 
-**Proposed:**
-- Caroline = Final approver
-- Denys = Technical review
+**Process:**
+1. Andrii delivers design/development
+2. Denys reviews technical aspects
+3. Caroline reviews
+4. Ilya (and possibly Igor) give final approval
+
+**Revision Rounds:**
 - 2 rounds of design revisions
 - 1 round of development revisions
 
@@ -646,39 +701,14 @@ Examples:
 
 ---
 
-## 14. Open Questions for Caroline
-
-The following items need Caroline's input before finalizing:
-
-### Branding & Messaging
-
-| # | Question | Current Draft |
-|---|----------|---------------|
-| 8 | Partnerships to feature on launch? | No names yet, prepare section |
-| 18 | Existing brand guidelines to follow? | Logo exists, no formal book |
-| 19 | Evolution of current site or complete departure? | Evolution with elevation |
-| 25 | Single most important message? | "Your most precious memories, preserved for 1,000+ years" |
-
-### B2B Strategy
-
-| # | Question | Current Draft |
-|---|----------|---------------|
-| 10 | Who is the B2B decision-maker? | Head of Innovation / Brand Heritage Director |
-| 12 | Specific B2B use cases to highlight? | Watches, fashion, family offices |
-
-### Operations
-
-| # | Question | Current Draft |
-|---|----------|---------------|
-| 30 | Customer testimonials available? | Limited, plan for section |
-| 48 | SEO keyword targets? | "luxury data storage," "permanent memory storage" |
-| 53 | Review/approval process? | Caroline final, Denys technical, 2 design + 1 dev revision |
-
----
-
-## 15. Appendix
+## 14. Appendix
 
 ### A. Example Crystals
+
+**Boucheron Crystal** ⭐ (B2B Testimonial Available)
+- Shape: Bespoke
+- Content: Luxury jewellery brand integration
+- Use case: B2B partnership, product authentication
 
 **MoonMars Museum Crystal**
 - Shape: Round
@@ -690,7 +720,12 @@ The following items need Caroline's input before finalizing:
 - Content: UAE heritage, corporate branding, "Eternal Journey of Generations"
 - Use case: B2B corporate gift / archive
 
-### B. Technical Diagrams
+### B. Brand Assets Reference
+
+**Figma Brand File:**
+[SPhotonix Brand Assets](https://www.figma.com/design/Te4ed6eIvhPBYUqHDNHJi7/SPhotonix_Denys?node-id=89-94&t=835H5hUTsaNXOBWo-1)
+
+### C. Technical Diagrams
 
 ```
 Crystal Dimension Reference:
@@ -708,7 +743,7 @@ B = A - 2mm (1mm border each side)
 C = Crystal thickness
 ```
 
-### C. File Handoff Checklist
+### D. File Handoff Checklist
 
 Upon project completion, Andrii delivers:
 
@@ -719,7 +754,7 @@ Upon project completion, Andrii delivers:
 - [ ] Analytics verification
 - [ ] Training session (30 min)
 
-### D. Related Documents
+### E. Related Documents
 
 - [SPhotonix B2C Ad Projection](./sphotonix-b2c-ad-projection.csv)
 - [Quiz Repository](https://github.com/sphotonix/memory-crystal-quiz)
@@ -732,12 +767,13 @@ Upon project completion, Andrii delivers:
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | 2026-01-16 | Denys Chumak | Initial draft |
+| 1.1 | 2026-01-16 | Denys Chumak | Updated with Caroline's feedback |
 
 ---
 
-**Document Status:** Draft - Awaiting Caroline's Input on Flagged Items
+**Document Status:** ✅ Approved by Caroline — Ready for Andrii
 
 **Next Steps:**
-1. Get Caroline's answers to Section 14 questions
-2. Finalize SPEC.md
+1. ~~Get Caroline's answers to open questions~~ ✅ Done
+2. ~~Update SPEC.md~~ ✅ Done
 3. Share with Andrii to begin Phase 1 work
